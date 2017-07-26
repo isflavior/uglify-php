@@ -1,0 +1,35 @@
+{
+	"name": "uglify-php",
+	"version": "1.0.3",
+	"description": "UglifyPHP is a JavaScript minifier and obfuscator for PHP files.",
+	"keywords": [
+		"php",
+		"uglify",
+		"minifier",
+		"minify",
+		"obfuscator",
+		"encoder",
+		"protector"
+	],
+	"main": "lib/index.js",
+	"dependencies": {
+		"php-parser": "2.0.3",
+		"uniqid": "4.1.1"
+	},
+	"devDependencies": {},
+	"author": {
+		"name": "Flávio Reis",
+		"email": "flavioreis10@hotmail.com",
+		"url": "https://twitter.com/flavior121"
+	},
+	"bugs": {
+		"url": "https://github.com/flavior121/uglify-php/issues",
+		"email": "flavioreis10@hotmail.com"
+	},
+	"license": "MIT",
+	"readmeFilename": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/flavior121/uglify-php.git"
+	}
+}
