@@ -1,7 +1,7 @@
 {
 	"name": "uglify-php",
-	"version": "1.0.3",
-	"description": "UglifyPHP is a JavaScript minifier and obfuscator for PHP files.",
+	"version": "1.0.7",
+	"description": "UglifyPHP is a JavaScript minifier and simple obfuscator for PHP files",
 	"keywords": [
 		"php",
 		"uglify",
@@ -9,7 +9,8 @@
 		"minify",
 		"obfuscator",
 		"encoder",
-		"protector"
+		"protector",
+		"minimize"
 	],
 	"main": "lib/index.js",
 	"dependencies": {
