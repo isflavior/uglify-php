@@ -1,11 +1,9 @@
 # UglifyPHP
 
-UglifyPHP is a JavaScript minifier and simple obfuscator for PHP files.
+UglifyPHP is a simple JavaScript minifier and obfuscator for PHP files.
 
 ## How It Works
-This package use a unique ID based on the current time to replace variables. You can use two minified files together and don't have to worry with variable overwriting.
-
-This package can minify `Classes` and replace correctly variables and functions references with `$this`. It will not change any function name or create "junk code" for performance reasons.
+This package use a unique ID based on the current time to replace variables.
 
 **This should not be used as a licensing or code protection solution.**
 
@@ -43,7 +41,7 @@ let options = {
 	 "remove_comments": true,
 	 "minify_html": false
   },
-  "output": "C:/web/file_min.php" // If it's empty the promise will return the minified source code
+  "output": "C:/web/file_min.php" // when empty the promise will return the minified source code
 }
 
 // You can use a path or the source code
