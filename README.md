@@ -1,7 +1,5 @@
 # UglifyPHP
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6cc77c22407e464ebda5e318eb1ae42e)](https://app.codacy.com/app/flavior121/uglify-php?utm_source=github.com&utm_medium=referral&utm_content=flavior121/uglify-php&utm_campaign=Badge_Grade_Dashboard)
-
 UglifyPHP is a JavaScript minifier and simple obfuscator for PHP files.
 
 ## How It Works
